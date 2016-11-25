@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlackScreen Timer</string>
+
+    <string name="title_activity_blackscreen">BlackScreen Timer</string>
+    <string name="menu_button">test1 btn</string>
+    <string name="test_button">show dialog</string>
+
+    <string name="title_activity_timer">Timer</string>
+    <string name="set_timer">Set Timer</string>
+</resources>
